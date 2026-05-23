@@ -1,0 +1,6 @@
+{
+  "name": "Расписание",
+  "description": "Современное расписание и домашние задания с дизайном Aurora и плавными Liquid эффектами.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
